@@ -1,6 +1,35 @@
 name = Catppuccin Late
 lookAndFeel = Flat Light
 useDarkDefaults = false
+
+// Catppuccin Late Palette
+color.palette.catppuccin.crust = #dce0e8
+color.palette.catppuccin.mantle = #e6e9ef
+color.palette.catppuccin.base = #eff1f5
+color.palette.catppuccin.surface0 = #ccd0da
+color.palette.catppuccin.surface1 = #bcc0cc
+color.palette.catppuccin.surface2 = #acb0be
+color.palette.catppuccin.overlay0 = #9ca0b0
+color.palette.catppuccin.overlay1 = #8c8fa1
+color.palette.catppuccin.overlay2 = #7c7f93
+color.palette.catppuccin.subtext0 = #6c6f85
+color.palette.catppuccin.subtext1 = #5c5f77
+color.palette.catppuccin.text = #4c4f69
+color.palette.catppuccin.lavender = #7287fd
+color.palette.catppuccin.blue = #1e66f5
+color.palette.catppuccin.sapphire = #209fb5
+color.palette.catppuccin.sky = #04a5e5
+color.palette.catppuccin.teal = #179299
+color.palette.catppuccin.green = #40a02b
+color.palette.catppuccin.yellow = #df8e1d
+color.palette.catppuccin.peach = #fe640b
+color.palette.catppuccin.maroon = #e64553
+color.palette.catppuccin.red = #d20f39
+color.palette.catppuccin.mauve = #8839ef
+color.palette.catppuccin.pink = #ea76cb
+color.palette.catppuccin.flamingo = #dd7878
+color.palette.catppuccin.rosewater = #dc8a78
+
 [color]Viewport.background = color.bg
 color.bg = [color]system.color.bg.view
 color.bg.byteviewer = color.bg
