@@ -52,6 +52,7 @@
 ## 💝 Thanks to
 
 - [StanlsSlav](https://github.com/StanlsSlav)
+- [FabyoSK](https://github.com/FabyoSK)
 
 &nbsp;
 
