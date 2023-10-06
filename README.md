@@ -15,9 +15,6 @@
 	<img src="./assets/preview.webp"/>
 </p>
 
-> **Note**\
-> For now, the themes are the default exports of flat dark and light
-
 ## Previews
 
 <details>
